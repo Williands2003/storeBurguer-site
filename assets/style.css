@@ -368,7 +368,7 @@ footer .container .logo a span{
     header .menu{
         display: flex;
     }
-    .hero .conteiner{
+    .hero .container{
         flex-direction: column;
 
     }
@@ -391,7 +391,7 @@ footer .container .logo a span{
     }
 
 
-    hero h1 {
+    .hero h1 {
         font-size: 40px;
         line-height: 40px;
     }
